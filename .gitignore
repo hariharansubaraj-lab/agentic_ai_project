@@ -1,0 +1,33 @@
+# Environment Variables & Secrets
+.env
+*.env
+**/.env
+**/.env.*
+!.env.example
+
+# Python Bytecode & Cache
+__pycache__/
+**/*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

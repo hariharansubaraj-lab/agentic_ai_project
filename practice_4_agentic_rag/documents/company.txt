@@ -1,0 +1,9 @@
+ZOHO is a software company.
+
+The development team works with Python, FastAPI,
+Machine Learning, Artificial Intelligence and RAG systems.
+
+The company develops healthcare technology solutions.
+
+The team also works with document-based question
+answering systems and enterprise RAG applications.
